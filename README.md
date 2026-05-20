@@ -329,6 +329,8 @@ _Related: [Groupware](#groupware)_
 
 [Communication software](https://en.wikipedia.org/wiki/Communication_software) used to provide remote access to systems and exchange files and messages in text, audio and/or video formats between different computers or users, using their own custom protocols.
 
+- [ABoroOffice](https://aborosoft.com) - Integrated ERP, CRM andHelpDesk suite for small and medium businesses. Self-hosted, 
+  GDPR-compliant. `GPL-3.0` `Python`, German-language support.  ([Demo](https://cloudshare.aborosoft.com), [Source Code](https://github.com/DEIN-REPO)) `GPL-3.0` `Python`  
 - [AnyCable](https://anycable.io/) - Realtime server for reliable two-way communication over WebSockets, Server-sent events, etc. ([Demo](https://demo.anycable.io), [Source Code](https://github.com/anycable/anycable)) `MIT` `Go/Docker`
 - [Apprise](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker/deb`
 - [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo](https://github.com/centrifugal/centrifugo#demo), [Source Code](https://github.com/centrifugal/centrifugo)) `MIT` `Go/Docker/K8S`
